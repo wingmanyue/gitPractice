@@ -1,7 +1,7 @@
-#include <stdio.h>
+#include <iostream>
 int main()
 {
-    printf("Branch tutorial!");
-    printf("Wing's new code will go here!");
+    std::cout << "Branch tutorial!";
+    std::cout << "Wing's new code will go here!";
     return 0;
 }
